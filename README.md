@@ -10,14 +10,14 @@
 	</nav>
 	<h1> Works</h1>
 	<ol>
-	<li><a href = "http://jormungandr.x10host.com/index_list.html">index_list.html</a></li>
-	<li><a href = "http://jormungandr.x10host.com/test">test</a></li>
-	<li><a href = "http://jormungandr.x10host.com/The_Office.txt">The Office.txt</a></li>
-	<li><a href = "http://jormungandr.x10host.com/website.txt">website.txt</a></li>
-	<li><a href = "http://jormungandr.x10host.com/High_Thoughts.docx">High Thoughts.docx</a></li>
+	<li><a href = "https://coxwr.github.io/Jormungandr/index_list.html">index_list.html</a></li>
+	<li><a href = "https://coxwr.github.io/Jormungandr//test">test</a></li>
+	<li><a href = "https://coxwr.github.io/Jormungandr//The_Office.txt">The Office.txt</a></li>
+	<li><a href = "https://coxwr.github.io/Jormungandr//website.txt">website.txt</a></li>
+	<li><a href = "https://coxwr.github.io/Jormungandr//High_Thoughts.docx">High Thoughts.docx</a></li>
 	<!--I can feel the blood flowing through my foot-veins again
 	Chucky cheese?? Gosh I'm so tired of Chucky Cheese.-->
-	<li><a href = "http://jormungandr.x10host.com/imagetest.jpg">imagetest.jpg</a></li>
+	<li><a href = "https://coxwr.github.io/Jormungandr//imagetest.jpg">imagetest.jpg</a></li>
 	</ol>
 
 
