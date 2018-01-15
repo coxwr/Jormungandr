@@ -1,0 +1,76 @@
+The Office
+
+Episode 1
+
+Ji,M
+M,P
+M,J,D
+A,K
+Ja,P
+Ja,M,P
+D,J
+Packer,M,Ja,P
+S,Ph
+S,Ph,O
+A,K
+P,J
+R,P
+R,M
+M,P
+Ji,D
+P,M
+Conference
+R,Ji
+D,R,M
+D,Ji,M
+P,Ji,Ro
+M,R,P
+Ji,P
+
+Episode 2- Guest (W)
+M,W
+D,Ji
+P,Ji
+M,O
+O,W,M
+Conference,W
+M,W
+M,T
+Conference,-T
+R,Ji
+P,Ji
+
+Episode 3
+P,M
+M,Ja
+Ji,P
+Ji,M
+M,D
+S,Ke
+P,M
+D,P,Ji
+Ke,O,A
+O,Me,M,Ke,D,P,Ji,S,A
+O,A,Ke
+P,M
+Ji,P
+All, -M
+D,Ji
+Ji,P
+D,Ja
+M,S
+Conference
+
+Episode 4
+D,M
+S,Ke,D
+M,P
+Ph,P,A
+D,Ji
+Ji,P
+Ji,D
+Ji,D
+Ji,T,Ke
+
+
+

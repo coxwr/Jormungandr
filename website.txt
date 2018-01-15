@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Will’s Manifesto </title>
+</head>
+<body>
+<nav>
+<a href = “index.html”></a>
+<a href = “previous.html”></a>
+<a href = “next.html”></a>
+</nav>
+<h1> Title of Work </h1>
+<img src =“https://address_of_wherever_image_is_being_hosted_from.com/1993028820.jpg” />
+<p> Any sort of caption I might want/need </p>
+</body>
+</html>
