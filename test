@@ -1,0 +1,19 @@
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> Will’s Manifesto </title>
+	</head>
+	<body>
+		<nav>
+			<a href = “index.html”></a>
+			<a href = “previous.html”></a>
+			<a href = “next.html”></a>
+		</nav>
+		<!-- I Hate that Gin has become a popular alchoholic drink. I don't drink gin and tonics because they are the cool drink to drink, I don't drink them because they taste good, I drink them because I hate myself and I want to feel like a british imperialist. My friend Riley first got me really into drinking gin in a social manner. Its a tasty liquid, if you like aromatic or floral flavors. My step-father's step-father (sorta, long story) always drank a gin and tonic on holidays or befor a family gathering, and he was sort of an austere gentle man. Realize i say gentle man and not gentleman, although he was also a gentleman. He was a chemical engineer for a while, and apparently did a good job off it because my grandmother is still living off his stock options almost a decade after he passed away. Oh well. -->
+		<h1> Title of Work </h1>
+		<img src =“https://address_of_wherever_image_is_being_hosted_from.com/1993028820.jpg” />
+			<p> Any sort of caption I might want/need </p>
+			<p style="color:red;font-family:helvetica;"> CSS Style playground line</p>
+	</body>
+</html>
