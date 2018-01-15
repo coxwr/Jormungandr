@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title> Index List </title>
+		Index List 
 	</head>
 	<body>
 	<nav>
