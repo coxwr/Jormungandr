@@ -5,9 +5,6 @@
 		Index List 
 	</head>
 	<body>
-	<nav>
-	<a href = ~></a>
-	</nav>
 	<h1> Works</h1>
 	<ol>
 	<li><a href = "https://coxwr.github.io/Jormungandr/index_list.html">index_list.html</a></li>
