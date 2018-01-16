@@ -16,6 +16,7 @@
 		<li><a href = "https://coxwr.github.io/Jormungandr/bam_convo/genesis.txt">genesis.txt</a></li>
 		<li><a href = "https://coxwr.github.io/Jormungandr/IMG_20180112_155816994.jpg">before</a> & <a href = "https://coxwr.github.io/Jormungandr/IMG_20180112_160741751.jpg">after</a></li>
 		<li><a href = "https://medium.com/@jshelbyhouse/the-faux-feminism-of-nys-woke-coworking-spaces-e741a13ee604"> $5 latte</a></li>
+		<li><a href = "https://coxwr.github.io/Jormungandr/new_media.html">new_media.html</a></li>
 	</ol>
 
 
