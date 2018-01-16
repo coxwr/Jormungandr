@@ -1,9 +1,5 @@
 # Jormungandr
-<!DOCTYPE html>
-<html>
-	<head>
-		Index List 
-	</head>
+
 	<body>
 	<h1> Works</h1>
 	<ol>
