@@ -19,7 +19,7 @@
 		<li><a href = "https://coxwr.github.io/Jormungandr/new_media.html">new_media.html</a></li>
 		<li><a href = "https://coxwr.github.io/Jormungandr/skeptic.jpg">skeptic.jpg</a></li>
 		<li><a href = "https://coxwr.github.io/Jormungandr/bam_convo/splash.html">splash.html</a></li>
-		<li style = "color:red;"><a href = "https://coxwr.github.io/Jormungandr/urls.txt">urls.txt</a></li>
+		<li><a style = "color:red;" href = "https://coxwr.github.io/Jormungandr/urls.txt">urls.txt</a></li>
 	</ol>
 
 
