@@ -14,6 +14,7 @@
 	<li><a href = "https://coxwr.github.io/Jormungandr/dune.html">dune.html</a></li>
 		<li><a href = "https://coxwr.github.io/Jormungandr/rando.html">rando.html</a></li>
 		<li><a href = "https://coxwr.github.io/Jormungandr/bam_convo/genesis.txt">genesis.txt</a></li>
+		<li><a href = "https://coxwr.github.io/Jormungandr/IMG_20180112_155816994.jpg">before</a> & <a href = "https://coxwr.github.io/Jormungandr/IMG_20180112_160741751.jpg">after</a></li>
 	</ol>
 
 
