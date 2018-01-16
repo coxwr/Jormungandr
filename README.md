@@ -13,6 +13,7 @@
 	<li><a href = "https://coxwr.github.io/Jormungandr/imagetest.jpg">imagetest.jpg</a></li>
 	<li><a href = "https://coxwr.github.io/Jormungandr/dune.html">dune.html</a></li>
 		<li><a href = "https://coxwr.github.io/Jormungandr/rando.html">rando.html</a></li>
+		<li><a href = "https://coxwr.github.io/Jormungandr/bam_convo/genesis.txt">genesis.txt</a></li>
 	</ol>
 
 
