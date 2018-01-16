@@ -12,6 +12,7 @@
 	Chucky cheese?? Gosh I'm so tired of Chucky Cheese.-->
 	<li><a href = "https://coxwr.github.io/Jormungandr/imagetest.jpg">imagetest.jpg</a></li>
 	<li><a href = "https://coxwr.github.io/Jormungandr/dune.html">dune.html</a></li>
+		<li><a href = "https://coxwr.github.io/Jorgmungandr/rando.html">rando.html</a></li>
 	</ol>
 
 
