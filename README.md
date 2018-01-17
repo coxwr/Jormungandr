@@ -20,6 +20,7 @@
 		<li><a href = "https://coxwr.github.io/Jormungandr/skeptic.jpg">skeptic.jpg</a></li>
 		<li><a href = "https://coxwr.github.io/Jormungandr/bam_convo/splash.html">splash.html</a></li>
 		<li><a  href = "https://coxwr.github.io/Jormungandr/urls.txt"><style = "color:red;">urls.txt</style></a></li>
+		<li><a href = "https://coxwr.github.io/Jormungandr/oficina_randomizer.html">oficina_randomizer.html</a></li>
 	</ol>
 
 
