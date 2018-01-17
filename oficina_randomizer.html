@@ -1,6 +1,6 @@
 <html>
 <form action="/Jormungandr/index_list.html">
-  All Season: <input type="radio" name="season"><br>
+  All Season: <input type="radio" name="season_all"><br>
   Season 1: <input type="radio" name="season"><br>
   Season 2: <input type="radio" name="season"><br>
   Season 3: <input type="radio" name="season"><br>
@@ -14,13 +14,15 @@
   <input type="submit" value="Submit">
 </form>
 
+  <var id="rando_1">variable</var>  
+  
 <p id="one"></p>
 <button onclick="random()">Random</button>
 
 <script>
  function random(){
 
-document.getElementById("one").innerHTML = Math.floor(Math.random() * 10);
+document.getElementById("season_all").innerHTML = Math.floor(Math.random() * 10);
 }
 </script>
 
