@@ -1,11 +1,8 @@
 <html>
-  
-  <script>
-    const season_1 = ['70105212', '70069628', '7006929', '70069630', '70069631', '70069632']
-  </script>
+ 
 <form action="/Jormungandr/index_list.html">
   All Season: <input type="button" id="season_all"><br>
-  Season 1: <input type="radio" name="season"><br>
+  Season 1: <input type="radio" name="season" id = "button_1"><br>
   Season 2: <input type="radio" name="season"><br>
   Season 3: <input type="radio" name="season"><br>
   Season 4: <input type="radio" name="season"><br>
@@ -19,15 +16,17 @@
   <input type="submit" value="Submit">
 </form>
 
-  <var id="rando_1">variable</var>  
+ 
   
 <p id="one"></p>
-<button onclick="random()">Random</button>
+<button onclick="myFunction">Random</button>
 
 <script>
- function random(){
+  const season_1 = ['70105212', '70069628', '7006929', '70069630', '70069631', '70069632']
+  
+  function myFunction() {
 
-document.getElementById("season_all").innerHTML = Math.floor(Math.random() * 10);
+    document.getElementById("demo").innerHTML = "YOU CLICKED" + " ME!";
 }
 </script>
 
