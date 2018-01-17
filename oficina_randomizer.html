@@ -16,7 +16,7 @@
   <input type="submit" value="Submit"> -->
 </form>
 
- 
+<!-- 
   
 <p id="one"></p>
 <button onclick="myFunction">Random</button>
@@ -29,6 +29,20 @@
     document.getElementById("demo").innerHTML = "YOU CLICKED ME!";
 }
 </script>
+-->
+<p id="myP">I am a paragraph.</p>
 
-  
+
+<button onclick="myFunction()">Try it</button>
+
+<p id="demo"></p>
+
+<script>
+function myFunction() {
+    var x = document.getElementById("myP").innerHTML;
+    document.getElementById("demo").innerHTML = x;
+}
+</script>
+ 
+ 
 </html>
