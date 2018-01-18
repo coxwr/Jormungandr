@@ -21,7 +21,7 @@
 		<li><a href = "https://coxwr.github.io/Jormungandr/bam_convo/splash.html">splash.html</a></li>
 		<li><a  href = "https://coxwr.github.io/Jormungandr/urls.txt"><style = "color:red;">urls.txt</style></a></li>
 		<li><a href = "https://coxwr.github.io/Jormungandr/oficina_randomizer.html">oficina_randomizer.html</a></li>
-		<li><a href = "https://coxwr.github.io/Jormungandr/Friend_Survey.docx">Friend Survey.docx <span style="color:orange;> raw </span></a></li>
+		<li><a href = "https://coxwr.github.io/Jormungandr/Friend%20Survey.docx">Friend Survey.docx <span style="color:orange;> raw </span></a></li>
 	</ol>
 
 
